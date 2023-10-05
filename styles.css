@@ -129,12 +129,12 @@ nav p:hover {
 }
 .chart-btn:hover{
     cursor: pointer;
-    color: var(--purple);
+    color: #B192C1;
     background-size: 90%;
 }
 .buy-btn:hover{
     cursor: pointer;
-    color: var(--purple);
+    color: #B192C1;
     background-size: 90%;
 }
 .jointg-btn-container{
@@ -151,7 +151,7 @@ nav p:hover {
     justify-content: center;
     align-items: center;
     background-image: url(images/jointg-btn.png);
-    background-size: 85%;
+    background-size: 82%;
     background-repeat: no-repeat;
     background-position: center;
     width: 60%;
@@ -160,8 +160,8 @@ nav p:hover {
 }
 .jointg-btn:hover{
     cursor: pointer;
-    color: var(--purple);
-    background-size: 90%;
+    color: #B192C1;
+    background-size: 87%;
 }
 #about{
     grid-area: about;
@@ -318,7 +318,7 @@ footer{
 }
 .joinus-btn:hover{
     cursor: pointer;
-    color: var(--purple);
+    color: #B192C1;
     background-size: 90%;
 }
 .line{
