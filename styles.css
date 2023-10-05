@@ -309,9 +309,12 @@ footer{
     background-size: 85%;
     background-repeat: no-repeat;
     background-position: center;
-    width: 35%;
+    width: 45%;
     height: 100%;
     color: white;
+}
+.joinus-btn p{
+    font-size: 150%;
 }
 .joinus-btn:hover{
     cursor: pointer;
